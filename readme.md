@@ -1,4 +1,4 @@
-# GoSatck - Challenge: ReactJS Fundamentals
+# GoStack - Challenge: ReactJS Fundamentals
 
 ## About
 
